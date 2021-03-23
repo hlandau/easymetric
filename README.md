@@ -1,7 +1,7 @@
 Easymetric: Easy bindings for measurable
 ========================================
 
-[![GoDoc](https://godoc.org/gopkg.in/hlandau/easymetric.v1?status.svg)](https://godoc.org/gopkg.in/hlandau/easymetric.v1)
+[![godocs.io](https://godocs.io/gopkg.in/hlandau/easymetric.v1?status.svg)](https://godocs.io/gopkg.in/hlandau/easymetric.v1) [![No modules](https://www.devever.net/~hl/f/no-modules2.svg) 100% modules-free.](https://www.devever.net/~hl/gomod)
 
 easymetric provides utilities for use with
 [measurable](https://github.com/hlandau/configurable). It makes it easy to
